@@ -84,3 +84,11 @@ apt upgrade -y
 # If your computer beeps after compilation, unmark Beep on errors in Edit -> Preferences -> General -> Miscellaneous.
 # Open a file ~/.bashrc and uncomment a line #force_color_prompt=yes in order to get colorful terminal in Geany. Restart geany or run source ~/.bashrc to trigger the change.
 # Or use zsh
+
+#9. Install pip
+# python3
+sudo apt install python3-pip
+
+
+# 10. Install virtualenv
+pip3 install virtualenv
