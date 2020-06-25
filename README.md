@@ -5,3 +5,7 @@ It will install google chrome, vscode, zsh, oh-my-zsh, postman, geany, pip, virt
 # cmake.sh
 Run this script as root by typing: ***sudo sh cmake.sh***
 It will install cmake. If you want latest binary then install it from the github repo releases.
+
+# pyenv.sh
+Run this script as root by typing: ***sudo sh pyenv.sh***
+It will install pyenv. This is useful for maintaing multiple python version without interfering with the default python version.
